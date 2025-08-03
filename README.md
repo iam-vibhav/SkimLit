@@ -32,7 +32,7 @@ Validation metrics across models (evaluated on 10% of the dataset for efficiency
 | **Universal Sentence Encoder (USE)**    | 0.78     | 0.77     |
 | **Conv1D Char Embeddings**              | 0.75     | 0.73     |
 | **Token + Char Embeddings**             | 0.80     | 0.79     |
-| **Token + Char + Positional (model_5)** | **0.83** | **0.82** |
+| **Token + Char + Positional (model_5)** | **0.85** | **0.84** |
 
 > ✅ **model_5** outperformed all previous baselines and achieved strong results despite being trained on only 10% of the dataset.
 
