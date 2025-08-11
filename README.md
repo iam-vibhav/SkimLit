@@ -1,6 +1,6 @@
 # SkimLit Remake: Classifying Research Paper Abstracts
 
-This project is a remake of the [SkimLit](https://arxiv.org/pdf/1710.06071) paper, which introduces models for classifying sentences in medical abstracts into structured categories such as **BACKGROUND**, **OBJECTIVE**, **METHODS**, **RESULTS**, and **CONCLUSIONS**.  
+This project is a remake of the [Pubmed 20k RCT](https://arxiv.org/pdf/1710.06071) paper, which introduces models for classifying sentences in medical abstracts into structured categories such as **BACKGROUND**, **OBJECTIVE**, **METHODS**, **RESULTS**, and **CONCLUSIONS**.  
 
 The goal is to automatically label sentences from research abstracts, enabling faster literature review and structured data extraction for downstream applications.
 
